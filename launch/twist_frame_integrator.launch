@@ -5,7 +5,7 @@
     <param name="broadcast_rate" value="50"/>
 
     <param name="child_frame_id" value="integrated_twist_frame"/>
-    <param name="frame_id" value="/world"/>
+    <param name="frame_id" value="/stand"/>
 
     <param name="body_fixed" value="true"/>
 
